@@ -1,1 +1,18 @@
-# trabalho_python2
+# Controle Financeiro Simples
+
+Aplicativo de linha de comando em Python criado para ajudar no controle básico de finanças pessoais pelo terminal.
+
+## Funcionalidades
+- Adicionar entradas de dinheiro.
+- Registrar gastos.
+- Consultar o saldo atual (com aviso de saldo positivo, negativo ou zerado).
+
+## Como executar
+No terminal, execute:
+```bash
+python controle_financeiro.py
+```
+
+## Dupla
+- Nome do Integrante 1
+- Nome do Integrante 2
