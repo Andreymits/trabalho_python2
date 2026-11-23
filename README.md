@@ -14,5 +14,5 @@ python controle_financeiro.py
 ```
 
 ## Dupla
-- Nome do Integrante 1
-- Nome do Integrante 2
+- Nome do Integrante: José Andrey Ribeiro Gonçalves
+- Nome do Integrante: Francisco Gustavo Salviano De Oliveira
